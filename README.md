@@ -18,6 +18,8 @@ yarn start
 
 ```
 
+### Notice: Do not push your code to the main repository dirrectly ⛔️⛔️
+
 
 ### Prerequisites🌟
 
@@ -80,8 +82,8 @@ Using any deprecated library or any deprecated methods are not allowed, you shou
 ## Other guidelines🌟
 Use npm for server not yarn, use yarn for client not npm
 Use Visual Studio Code and install the eslint extension as well as the prettier extension in their default configuration. Always follow the eslint recommendations.
-Make sure you use ample Commenting throughout your code
-Images are 1024x1024 and do not exceed 300kb for better website speed and to save database cost
-Keep code files small and divide code into components
-Always test your code before pushing it to github
-Avoid touching a teammate’s code unless with specific instructions or permission
+Make sure you use ample Commenting throughout your code.
+Images should not exceed 300kb for better website speed and to save database cost.
+Keep code files small and divide code into components.
+Always test your code before pushing it to Github.
+Avoid touching a teammate’s code unless with specific instructions or permission.
