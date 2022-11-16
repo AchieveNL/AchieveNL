@@ -18,7 +18,12 @@ yarn start
 
 ```
 
-### Notice: Do not push your code to the main repository dirrectly ⛔️⛔️
+### Warning: Do not push your code to the main repository dirrectly ⛔️⛔️
+
+* create a new pull request and check for the pipeline to be green.
+* Wait for code review and if everything is looking good it will be merged by the lead developres into the `main`
+* If you missed something in the pull request the lead developres will write you a comment.
+
 
 
 ### Prerequisites🌟
