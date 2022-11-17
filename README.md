@@ -21,7 +21,7 @@ yarn start
 ### Warning: Do not push your code to the main repository dirrectly ⛔️⛔️
 
 * Create a new pull request and check for the pipeline to be green.
-* Wait for code review, if everything is looking good it will be merged by the lead developres into the `main`
+* Wait for code review, if everything is looking good it will be merged by the lead developers into the `main`
 * If you missed something in the pull request, the lead developers will write you a comment.
 
 
