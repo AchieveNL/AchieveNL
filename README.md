@@ -20,10 +20,9 @@ yarn start
 
 ### Warning: Do not push your code to the main repository dirrectly ⛔️⛔️
 
-* create a new pull request and check for the pipeline to be green.
-* Wait for code review and if everything is looking good it will be merged by the lead developres into the `main`
-* If you missed something in the pull request the lead developres will write you a comment.
-
+* Create a new pull request and check for the pipeline to be green.
+* Wait for code review, if everything is looking good it will be merged by the lead developres into the `main`
+* If you missed something in the pull request, the lead developers will write you a comment.
 
 
 ### Prerequisites🌟
@@ -85,10 +84,10 @@ Functions are short and accomplish a clear, specific task. As much as possible t
 Using any deprecated library or any deprecated methods are not allowed, you should follow the best practices of a framework or a library and avoid using any deprecated methods or any methods that warn you that it will be deprecated in the future and you should switch to another one.
 
 ## Other guidelines🌟
-Use npm for server not yarn, use yarn for client not npm
+Use npm for server not yarn, use yarn for client not npm.
 Use Visual Studio Code and install the eslint extension as well as the prettier extension in their default configuration. Always follow the eslint recommendations.
 Make sure you use ample Commenting throughout your code.
 Images should not exceed 300kb for better website speed and to save database cost.
 Keep code files small and divide code into components.
-Always test your code before pushing it to Github.
 Avoid touching a teammate’s code unless with specific instructions or permission.
+Always test your code before pushing it to Github.
